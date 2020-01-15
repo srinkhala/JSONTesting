@@ -1,0 +1,83 @@
+{
+  "id": "237427427",
+  "description": "Note- we dispatch from Delhi \nIPhone  5 16gb with box and accessories \nFixed price \nWhatsapp -7835863,237\n9718289,859",
+  "locations": [
+    {
+      "lat": 29.717,
+      "lon": 75.898,
+      "region_id": "2001155",
+      "subregion_id": "",
+      "city_id": "4058766",
+      "district_id": "5309502"
+    }
+  ],
+  "images": [
+    {
+      "id": "646550345",
+      "width": 810,
+      "height": 1080,
+      "url": "https://i.picsum.photos/id/982/1080/1400.jpg",
+      "full": {
+        "width": 1080,
+        "height": 1440,
+        "url": "https://i.picsum.photos/id/982/1080/1400.jpg"
+      },
+      "big": {
+        "width": 505,
+        "height": 673,
+        "url": "https://i.picsum.photos/id/982/505/673.jpg"
+      },
+      "medium": {
+        "width": 120,
+        "height": 160,
+        "url": "https://i.picsum.photos/id/982/120/160.jpg"
+      },
+      "small": {
+        "width": 120,
+        "height": 160,
+        "url": "https://i.picsum.photos/id/982/120/160.jpg"
+      }
+    },
+    {
+      "id": "646550346",
+      "width": 810,
+      "height": 1080,
+      "url": "https://i.picsum.photos/id/898/1080/1400.jpg",
+      "full": {
+        "width": 1080,
+        "height": 1440,
+        "url": "https://i.picsum.photos/id/898/1080/1400.jpg"
+      },
+      "big": {
+        "width": 505,
+        "height": 673,
+        "url": "https://i.picsum.photos/id/898/505/673.jpg"
+      },
+      "medium": {
+        "width": 120,
+        "height": 160,
+        "url": "https://i.picsum.photos/id/898/120/160.jpg"
+      },
+      "small": {
+        "width": 120,
+        "height": 160,
+        "url": "https://i.picsum.photos/id/898/120/160.jpg"
+      }
+    }
+  ],
+  "user_id": "858587587",
+  "price": {
+    "key": "price",
+    "key_name": "Price",
+    "value": {
+      "raw": 5500,
+      "display": "₹ 5,500",
+      "currency": {
+        "pre": "₹",
+        "post": "",
+        "iso_4217": "INR",
+        "locale": ""
+      }
+    }
+  },
+}
